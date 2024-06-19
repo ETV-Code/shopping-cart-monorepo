@@ -1,0 +1,4 @@
+.idea/*
+node_modules/*
+workspace/frontend/node_modules/*
+workspace/backend/node_modules/*
